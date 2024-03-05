@@ -2,7 +2,7 @@
 
 I know little about alot, and looking to learn alot more.
 
-Proficient but inefficient in Phython, looking to improve on mu Bash and learn to code C (apparently is similar to Arduino...Yay).
+Proficient but inefficient in Phython, working to improve my Bash and posibly learn to code C (apparently is similar to Arduino...Yay).
 
 Like to tinker and build things.
 
